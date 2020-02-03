@@ -1,0 +1,34 @@
+A dog runs up to you! 1 = Pet the dog 2 = Don't pet the dog
+false
+You pet the dog! The dog pants and wags its tail. 1 = Rub the dog's stomach 2 = Lick the dog
+false
+You rub the dog's stomach! The dog loves you and follows you home!
+true
+You lick the dog! The dog licks you back!
+true
+The dog looks longingly at you. 1 = Pet the dog 2 = Don't pet the dog
+false
+You pet the dog! The dog pants and licks your cheek in joy! 1 = Take the dog home 2 = Don't take the dog home
+false
+You take the dog home and live happily ever after! until one of you die
+true
+The dog loves you so much that he takes you home instead!
+true
+ThE dOg LoOkS lOnGiNgLy At YoU. 1 = PeT tHe DoG 2 = DoN't PeT tHe DoG
+false
+The dog pants and licks you! He loves you!
+true
+THE DOG LOOKS VERY VERY LONGINGLY AT YOU. 1 = PET THE DOG 2 = DON'T PET THE DOG OR ELSE
+false
+The dog pants and licks you a lot! He loves you!
+true
+ARE YOU REALLY SURE YOU DON'T WANT TO PET THE DOG? 1 = YES 2 = NO
+false
+The dog your arm off so a part of you can pet him whenever he wants! 
+true
+"Will you please pet me?" the dog manages to speak in human language. 1 = Yes 2 = No
+false
+You pet the dog and the dog loves you!
+true
+The dog was a serial killer in disguise and kills you for not petting him.
+true

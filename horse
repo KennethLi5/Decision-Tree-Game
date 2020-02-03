@@ -1,0 +1,38 @@
+You get jumped by 3 strangers! Do you? 1 = Run 2 = Fight
+false
+You choose to run! You sprint away as fast as you can and run into two paths - a river and a tree. Do you? 1 = Swim across the river 2 = Climb up the tree
+false
+You swim across the river! However, the 3 strangers are hot in pursuit. Do you? 1 = Keep running 2 = Fight
+false
+You keep running and running! Eventually you run into two things - a horse with wings and hole in the ground! Do you? 1 = Jump on the horse 2 = Jump into the hole
+false
+Horses can't fly! You get jumped by the 3 strangers and they run away laughing 
+true
+You go down the hole! A magic portal appears as you fall through the hole and you appear in the sky with a flying horse! Do you? 1. Fly away 2. Go back and beat those 3 strangers with the help of your horse
+false
+You fly away with a flying horse!
+true
+Your horse flies down to the 3 strangers and blows them all away with a gust of wind from the wings!
+true
+Now that you finally stopped running away, you realize that you are a skilled fighter and any number advantage doesnt matter. You beat them all up!
+true
+You climb up the tree! However, the 3 strangers are climbing up as well! Do you? 1. Jump off 2. Keep climbing 
+false
+You break your leg and they drop down and beat you up!
+true
+You climb to the top and a flying horse appears! Do you? 1. Take the horse 2. Get beat up
+false
+You fly away!
+true
+You get beat up :(
+true
+Are you good at fighting people? 1 = Yes 2 = YES
+false
+Well it just so happens the 3 strangers are even better! You lose!
+true
+How skilled are you? 1. Better than anyone 2. Better than the 3 strangers
+false
+It just so happens the 3 strangers aren't just anyone! They are the strongest, fastest, and most skilled fighters! You lose!
+true
+You're better than the top 3 fighters in the world! You take them all on and win!
+true
